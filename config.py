@@ -1,7 +1,7 @@
 # config.py
 
 # Токен бота - замените на свой
-BOT_TOKEN = "7790883343:AAEm_M_Y_ILk9qMlMSBiFpssdZSS2z4ABmU"
+BOT_TOKEN = "7558767881:AAEhF9u1CtkMEqfx8v9KllMPeWm7mraI4kA"
 # API ключ для eSIM Access - замените на свой
 ESIM_ACCESS_CODE = "f3c52bbf67374e35a0daf72a81b5977c"
 
